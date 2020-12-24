@@ -1,4 +1,4 @@
-# Toxic-Messages-Classifier
+# Toxic Messages Classifier
 
 ## Description:
 
