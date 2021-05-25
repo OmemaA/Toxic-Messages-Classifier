@@ -11,6 +11,6 @@ The project is implemented as well as visualized using different figures and cha
 - Library: streamlit, chatterbot, nltk, sklearn, pandas, numpy
 - Dataset: https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/data
 
-
-
+## To run:
+streamlit run app.py
 
